@@ -9,13 +9,14 @@
               <type value="RUNNING_DEVICE_TARGET" />
               <deviceKey>
                 <Key>
-                  <type value="VIRTUAL_DEVICE_PATH" />
-                  <value value="C:\Users\Legion\.android\avd\Pixel_6_Pro_API_33.avd" />
+                  <type value="SERIAL_NUMBER" />
+                  <value value="adb-R58W41L3LYY-uWuDFg._adb-tls-connect._tcp" />
                 </Key>
               </deviceKey>
             </Target>
           </runningDeviceTargetSelectedWithDropDown>
-          <timeTargetWasSelectedWithDropDown value="2024-04-26T02:41:58.963160400Z" />
+          <timeTargetWasSelectedWithDropDown value="2024-04-26T02:49:03.132698800Z" />
+          <multipleDevicesSelectedInDropDown value="true" />
           <runningDeviceTargetsSelectedWithDialog>
             <Target>
               <type value="RUNNING_DEVICE_TARGET" />
@@ -26,7 +27,27 @@
                 </Key>
               </deviceKey>
             </Target>
+            <Target>
+              <type value="RUNNING_DEVICE_TARGET" />
+              <deviceKey>
+                <Key>
+                  <type value="VIRTUAL_DEVICE_PATH" />
+                  <value value="C:\Users\Legion\.android\avd\Pixel_6_Pro_API_33.avd" />
+                </Key>
+              </deviceKey>
+            </Target>
           </runningDeviceTargetsSelectedWithDialog>
+          <targetsSelectedWithDialog>
+            <Target>
+              <type value="QUICK_BOOT_TARGET" />
+              <deviceKey>
+                <Key>
+                  <type value="VIRTUAL_DEVICE_PATH" />
+                  <value value="C:\Users\Legion\.android\avd\Pixel_6_Pro_API_33.avd" />
+                </Key>
+              </deviceKey>
+            </Target>
+          </targetsSelectedWithDialog>
         </State>
       </entry>
     </value>
