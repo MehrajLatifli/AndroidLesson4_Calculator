@@ -407,26 +407,6 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/button13" />
 
-    <com.google.android.material.materialswitch.MaterialSwitch
-        android:id="@+id/switch1"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_marginStart="300dp"
-        android:layout_marginTop="72dp"
-        android:layout_marginEnd="24dp"
-        android:outlineAmbientShadowColor="#000000"
-        android:outlineSpotShadowColor="#000000"
-        android:paddingRight="16dp"
-        android:text="Blue"
-        android:textColor="@color/white"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.692"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        app:thumbIconTint="#F40000"
-        app:thumbTint="#03A8F3"
-        app:trackTint="#9C27B0" />
-
     <Button
         android:id="@+id/button14"
         android:layout_width="0dp"
@@ -451,5 +431,25 @@
         app:layout_constraintEnd_toStartOf="@+id/button16"
         app:layout_constraintStart_toEndOf="@+id/button13"
         app:layout_constraintTop_toBottomOf="@+id/button11" />
+
+    <com.google.android.material.materialswitch.MaterialSwitch
+        android:id="@+id/switch1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="300dp"
+        android:layout_marginTop="72dp"
+        android:layout_marginEnd="24dp"
+        android:outlineAmbientShadowColor="#000000"
+        android:outlineSpotShadowColor="#000000"
+        android:paddingRight="16dp"
+        android:text="Blue"
+        android:textColor="@color/white"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.692"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:thumbIconTint="#F40000"
+        app:thumbTint="#03A8F3"
+        app:trackTint="#9C27B0" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
