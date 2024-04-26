@@ -2,7 +2,7 @@
  
 
  
-  <img src="Logo.svg" alt="Screen" width="12.5%" height="12.5%"> <h1>AndroidLesson4 (Calculator)</h1>
+  <h1>AndroidLesson4 (Calculator) <img src="Logo.svg" alt="Screen" width="12.5%" height="12.5%">  </h1>
 
   
   Example for Android (Kotlin) tutorial 
