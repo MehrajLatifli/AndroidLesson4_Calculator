@@ -4,7 +4,7 @@ plugins {
 }
 
 android {
-    namespace = "com.example.androidlesson4"
+    namespace = "com.example.Calculator"
     compileSdk = 34
 
     buildFeatures {
@@ -18,7 +18,7 @@ android {
     }
 
     defaultConfig {
-        applicationId = "com.example.androidlesson4"
+        applicationId = "com.example.Calculator"
         minSdk = 33
         targetSdk = 34
         versionCode = 1

@@ -1,18 +1,11 @@
-package com.example.androidlesson4
+package com.example.Calculator
 
 import android.content.res.ColorStateList
 import android.graphics.Color
 import android.os.Bundle
 import androidx.activity.enableEdgeToEdge
 import androidx.appcompat.app.AppCompatActivity
-import androidx.appcompat.app.AppCompatDelegate
-import androidx.core.content.ContextCompat
-import androidx.core.view.ViewCompat
-import androidx.core.view.WindowInsetsCompat
-import com.example.androidlesson4.databinding.ActivityMainBinding
-import android.graphics.PorterDuff
-import android.widget.Switch
-import android.widget.Toast
+import com.example.Calculator.databinding.ActivityMainBinding
 import androidx.appcompat.app.AlertDialog
 
 fun BlueTheme(binding:ActivityMainBinding){
